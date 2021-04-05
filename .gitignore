@@ -1,0 +1,5 @@
+# Project exclude paths
+/Filter/target/
+/Google/target/
+/MyBook/target/
+/MyMaven01/target/

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="13_cookie_session">
+    <output-path>$PROJECT_DIR$/out/artifacts/13_cookie_session</output-path>
+    <root id="root" />
+  </artifact>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MyBook" />
+        <module name="Google" />
+        <module name="maven03" />
+        <module name="Filter" />
+        <module name="MyMaven02" />
+        <module name="MyMaven01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo1" target="1.8" />
+      <module name="Filter" target="1.8" />
+      <module name="Google" target="1.8" />
+      <module name="maven03" target="1.8" />
+      <module name="MyBook" target="1.8" />
+      <module name="MyMaven01" target="1.8" />
+      <module name="MyMaven02" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
